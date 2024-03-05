@@ -5,6 +5,11 @@ this piece of shet lets you flash cleanstate kernel on pixel device (currently o
 
 Line 13: Make sure you set adbpath to your platform-tools folder path. 
 
+## kernel download
+
+### cleanstate for pantah
+https://xdaforums.com/attachments/cleanslate-pantah-images-230605-012-149-zip.5934323/
+
 ## how to run
 
 cd into the file directory and run:
