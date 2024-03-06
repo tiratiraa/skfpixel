@@ -13,9 +13,8 @@ https://xdaforums.com/attachments/cleanslate-pantah-images-230605-012-149-zip.59
 ## how to run
 
 cd into the file directory and run:
-`python main.py`
-
-if using python3 on windows, run:
 `python3 main.py`
 
+If using Python 3 on Windows, run:  
+`py -3 main.py`  
 if using IDLE IDE, just run it from there.
